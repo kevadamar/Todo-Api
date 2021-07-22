@@ -6,4 +6,4 @@
 4.  npx sequelize db:migrate
 5.  npx sequelize db:seed:all
 6.  npm start
-7.  ~Happy Coding~
+7.  Happy Coding!
